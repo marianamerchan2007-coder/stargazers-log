@@ -1,11 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
-    <title>Stargazers log</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Una selección de repositorios de software destacados.">
+    <title>Repositorios destacados</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
   </head>
   <body>
-    <h1>Stargazers log</h1>
-    <p>A log of the repositories I've starred.</p>
+    <main class="container">
+      <header class="page-header">
+        <p class="eyebrow">Stargazers log</p>
+        <h1>Repositorios destacados</h1>
+        <p>Una selección de proyectos de software interesantes para explorar.</p>
+      </header>
+      <section aria-labelledby="repositories-heading">
+        <h2 id="repositories-heading">Repositorios</h2>
+        <p id="status" role="status">Cargando repositorios destacados…</p>
+        <ul id="repository-list" class="repository-list"></ul>
+      </section>
+    </main>
   </body>
 </html>
+
