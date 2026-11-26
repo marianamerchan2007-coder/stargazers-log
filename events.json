@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Astro",
+    "owner": "withastro",
+    "description": "Un framework web para crear sitios rápidos y centrados en el contenido.",
+    "url": "https://github.com/withastro/astro",
+    "stars": "Más de 50 mil estrellas"
+  },
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "Recursos gratuitos para aprender programación y desarrollo web.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "stars": "Más de 400 mil estrellas"
+  },
+  {
+    "name": "D3",
+    "owner": "d3",
+    "description": "Biblioteca para crear visualizaciones de datos en el navegador.",
+    "url": "https://github.com/d3/d3",
+    "stars": "Más de 100 mil estrellas"
+  }
+]
